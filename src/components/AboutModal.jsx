@@ -117,6 +117,12 @@ const AboutModal = (props) => {
         </p>
 
         <p>
+          <Trans i18nKey="about.about.around_the_world">
+            Subwaydles around the world: <a href="https://www.subwaydle.com" target="_blank">New York</a>, <a href="https://london.subwaydle.com" target="_blank">London</a>.
+          </Trans>
+        </p>
+
+        <p>
           <Trans i18nKey="about.about.inspirations">
             Inspired by <a href="https://www.powerlanguage.co.uk/wordle/" target="_blank">Wordle</a>,
             its <a href="https://github.com/hannahcode/wordle" target="_blank">open-source clone</a>, <a href="https://nerdlegame.com/" target="_blank">Nerdle</a>,
