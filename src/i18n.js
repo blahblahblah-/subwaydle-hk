@@ -29,7 +29,7 @@ i18n
             display: {
               title: "Display",
               show_badges: "Show answer status badges",
-              show_badges_hint: "Having trouble seeing the difference in the colors? Turn on status badges!"
+              show_badges_hint: "Having trouble seeing the difference in the colours? Turn on status badges!"
             }
           },
           statistics: {

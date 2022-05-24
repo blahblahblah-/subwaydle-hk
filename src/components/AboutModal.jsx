@@ -132,6 +132,9 @@ const AboutModal = (props) => {
         </p>
 
           <p><a href="https://github.com/blahblahblah-/subwaydle-hk" target="_blank">Source code</a>.</p>
+
+          <p>Geolocation data © <a href="https://www.openstreetmap.org/copyright" target="_blank">OpenStreetMap contributors</a>.</p>
+
           <p>{ t("about.about.other_projects")} <a href="https://www.theweekendest.com" target="_blank">The Weekendest</a> and <a href="https://www.goodservice.io" target="_blank">goodservice.io</a>.</p>
       </Modal.Content>
     </Modal>
