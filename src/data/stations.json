@@ -326,8 +326,8 @@
     "id": "39",
     "name_english": "Hong Kong",
     "name_chinese": "香港",
-    "latitude": 22.2644535,
-    "longitude": 114.237044,
+    "latitude": 22.285,
+    "longitude": 114.158,
     "stops": {
       "AEL": {
         "latitude": 22.2850161,
@@ -557,7 +557,7 @@
     "latitude": 22.5283,
     "longitude": 114.1134,
     "stops": {
-    }
+}
   },
   "LHP": {
     "id": "57",
