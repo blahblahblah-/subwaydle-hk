@@ -29,7 +29,8 @@ i18n
             display: {
               title: "Display",
               show_badges: "Show answer status badges",
-              show_badges_hint: "Having trouble seeing the difference in the colours? Turn on status badges!"
+              show_badges_hint: "Having trouble seeing the difference in the colours? Turn on status badges!",
+              dark_mode: "Dark mode",
             }
           },
           statistics: {
@@ -81,7 +82,8 @@ i18n
             display: {
               title: "顯示",
               show_badges: "附加答案提示指標",
-              show_badges_hint: "如果您難分辨顏色, 啟用這個設置"
+              show_badges_hint: "如果您難分辨顏色, 啟用這個設置",
+              dark_mode: "深色模式",
             }
           },
           statistics: {

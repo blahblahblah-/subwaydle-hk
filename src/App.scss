@@ -1,3 +1,17 @@
+.outer-app-wrapper {
+  height: 100%;
+  width: 100%;
+  position: absolute;
+
+  &.dark {
+    background-color: #1b1c1d;
+
+    .float-right.menu {
+      color: #ffffff;
+    }
+  }
+ }
+
 .ui.segment.app-wrapper {
   max-width: 500px;
   margin: auto!important;
