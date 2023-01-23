@@ -48,6 +48,7 @@ i18n
             direction: "from {{origin}} to {{destination}}",
             share: "Share",
             copied: "Copied",
+            countdown: "Next MTRdle in",
           },
           about: {
             title: "How to Play",
@@ -101,6 +102,7 @@ i18n
             direction: "{{origin}}站 往 {{destination}}站",
             share: "分享",
             copied: "複製了",
+            countdown: "下一個 MTRdle 倒計時",
           },
           about: {
             title: "遊戲說明",
